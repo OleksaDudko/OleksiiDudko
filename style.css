@@ -1,0 +1,85 @@
+.fg{
+	background-color:#E692EC;
+}
+hr{
+	background-color:black;
+	height:3px;
+}
+.vis{
+	display:inline-block;
+	border:2px solid blue;
+	border-radius:3px;
+	padding:6px;
+	margin:70px;
+	margin-top:15px;
+}
+.kom{
+	display:inline-block;
+	border:2px solid blue;
+	border-radius:3px;
+	padding:6px;
+	margin:70px;
+	margin-top:15px;
+}
+.pla{
+	display:inline-block;
+	border:2px solid blue;
+	border-radius:3px;
+	padding:6px;
+	margin:70px;
+	margin-top:15px;
+}
+.noy{
+	display:inline-block;
+	border:2px solid blue;
+	border-radius:3px;
+	padding:6px;
+	margin:70px;
+	margin-top:15px;
+}
+.tel{
+	display:inline-block;
+	border:2px solid blue;
+	border-radius:3px;
+	padding:6px;
+	margin:70px;
+	margin-top:15px;
+}
+.ret{
+	background-color:715F9B;
+}
+.vfg{
+	margin-left:200px;
+	height:100px;
+	width:100px;
+	font-size:50px;
+
+}
+.crs{
+	margin-left:800px;
+	height:400px;
+	width:450px;
+	margin-top:-150px;
+}
+.gf{
+	background-color:black;
+	height:3px;
+	margin-top:2px;
+}
+.kll{
+		display:inline-block;
+		margin-left:140px;
+}
+h2{
+	margin-top:130px;
+}
+.jdk{
+	resize:none;
+	height:20px
+}
+.daf{
+	border:2px solid black;
+	background-color:D4D4D4;
+	border-radius:5px;
+	width:190px;
+}
